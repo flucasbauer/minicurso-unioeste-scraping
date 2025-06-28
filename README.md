@@ -1,0 +1,1 @@
+#### Repositório do minicurso realizado na Unioeste sobre Webscraping com Python
